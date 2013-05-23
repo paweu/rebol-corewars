@@ -1,0 +1,16 @@
+
+make object! [
+    Core-Size: 2000
+    Cycles-Before-Tie: 10000
+    Initial-Instruction: "DAT.F $0, $0"
+    Instruction-Limit: 500
+    Maximum-Number-of-Tasks: 64
+    Minimum-Separation: 100
+    Read-Distance: 8192
+    Separation: "RANDOM"
+    Warriors: 2
+    Write-Distance: 8192
+    Core-Display: true
+    Core-Disassemble: true
+    Skin: %aqua-blue.r
+]
