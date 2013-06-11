@@ -1538,7 +1538,7 @@ credits: func [][
 		banner "Credits"
 		across
 		lab "Author:" lab2 "Pawe³ GAWROÑSKI" return
-		lab "Credits:" lab2 "CoreWars fans" return
+		lab "Home screen gfx:" lab2 "Robert £OTOCKI" return
 		return
 		lab "License" lab2 "MIT" return
 		lab "Contact: hegemon@sgh.waw.pl" 
